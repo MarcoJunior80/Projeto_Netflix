@@ -81,7 +81,7 @@ Investigar os hábitos de consumo de conteúdo na Netflix, identificando:
 ---
 ## 📬 Contato
 
-- **Autor**: Marco & Leonardo  
+- **Autor**: Marco
 - **Local**: Florianópolis–SC  
 - **Data do projeto**: Setembro de 2025
 
